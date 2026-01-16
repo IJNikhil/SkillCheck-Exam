@@ -1,0 +1,23 @@
+[
+    {
+        "id": "STU001",
+        "name": "Nikki Adam",
+        "phone": "9876543210",
+        "batch": "A",
+        "status": "pending"
+    },
+    {
+        "id": "STU002",
+        "name": "John Doe",
+        "phone": "1234567890",
+        "batch": "A",
+        "status": "pending"
+    },
+    {
+        "id": "STU003",
+        "name": "Jane Smith",
+        "phone": "5555555555",
+        "batch": "B",
+        "status": "completed"
+    }
+]
