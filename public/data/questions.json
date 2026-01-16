@@ -1,0 +1,80 @@
+{
+    "mcq": [
+        {
+            "id": 1,
+            "module": "Fundamentals",
+            "q": "What is the shortcut key for 'Copy'?",
+            "options": [
+                "Ctrl+C",
+                "Ctrl+V",
+                "Ctrl+X",
+                "Alt+F4"
+            ],
+            "ans": "Ctrl+C"
+        },
+        {
+            "id": 2,
+            "module": "Excel",
+            "q": "Which symbol must every formula in Excel begin with?",
+            "options": [
+                "+",
+                "=",
+                "-",
+                "@"
+            ],
+            "ans": "="
+        },
+        {
+            "id": 3,
+            "module": "Hardware",
+            "q": "Which of the following is an input device?",
+            "options": [
+                "Monitor",
+                "Printer",
+                "Scanner",
+                "Speaker"
+            ],
+            "ans": "Scanner"
+        },
+        {
+            "id": 4,
+            "module": "Internet",
+            "q": "What does HTTP stand for?",
+            "options": [
+                "Hyper Text Transfer Protocol",
+                "High Transfer Test Protocol",
+                "Hyper Terminal Transfer Program",
+                "Hyper Text Transmission Protocol"
+            ],
+            "ans": "Hyper Text Transfer Protocol"
+        },
+        {
+            "id": 5,
+            "module": "Word",
+            "q": "Which shortcut aligns text to the center?",
+            "options": [
+                "Ctrl+L",
+                "Ctrl+R",
+                "Ctrl+E",
+                "Ctrl+J"
+            ],
+            "ans": "Ctrl+E"
+        }
+    ],
+    "typing": {
+        "beginner": [
+            "cat dog fish bird code java html css react node js api web app net",
+            "red blue green yellow black white orange purple pink gray brown",
+            "The sun rises in the east and sets in the west everyday."
+        ],
+        "intermediate": [
+            "The quick brown fox jumps over the lazy dog repeatedly to test the typewriter.",
+            "Consistency is the key to mastering any skill, especially touch typing.",
+            "Programming is the art of telling another human what one wants the computer to do."
+        ],
+        "advanced": [
+            "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+            "Serverless computing is a cloud computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application."
+        ]
+    }
+}
